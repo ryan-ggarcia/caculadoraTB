@@ -1,2 +1,2 @@
 # caculadoraTB
-Calculadora para saber a taxa basal
+Calculadora de taxa basal
